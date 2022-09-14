@@ -5,7 +5,7 @@ import './App.css';
 import Header from './components/layout/Header/Header';
 import Footer from './components/layout/Footer/Footer';
 import Home from './components/Home/Home';
-import { resolveConfigFile } from 'prettier';
+
 
 function App() {
   return (
